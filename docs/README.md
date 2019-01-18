@@ -1,6 +1,6 @@
 # This is a readme for the docs.
 
-![Markdown Mark](assets/markdown.png)
+![Markdown Mark](assets/markdown.png?raw=true "With title text")
 
 It serves as an index page of sorts.
 
