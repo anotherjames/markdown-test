@@ -1,6 +1,7 @@
 ---
 Title: Third doc title
 Description: Third doc description
+Image: https://www.alfresco.com/sites/www.alfresco.com/files//filenet_social_promo_hompage.png
 ---
 
 # This is my third doc
